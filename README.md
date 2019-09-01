@@ -3,12 +3,6 @@
 
 > My project of studies language chsarp
 
-## Install
-
-```sh
-npm install
-```
-
 ## Author
 
 👤 **samuel.vaz**
