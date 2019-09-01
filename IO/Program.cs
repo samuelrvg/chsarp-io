@@ -1,6 +1,4 @@
 ﻿using System;
-using System.IO;
-using System.Text;
 
 namespace IO
 {
@@ -10,8 +8,10 @@ namespace IO
 
         static void Main(string[] args)
         {
-            new UsingFileStream().FileStream(caminhoArquivo);
-            
+            //new UsingFileStream().FileStream(caminhoArquivo);
+
+            new UsingStreamReader().StreamReader(caminhoArquivo);
+
             Console.ReadKey();
         }
     }

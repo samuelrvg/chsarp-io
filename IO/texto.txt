@@ -1,1 +1,2 @@
 ﻿texto de teste file stream
+texto de teste stream reader
